@@ -88,32 +88,36 @@ print(me)
 <tr>
 <td width="50%">
 
-### 🧠 Intelligent File Text Extraction System
-> `Feb 2025 – Jul 2025`
+### 🤖 AI-Powered Job Portal
 
-A **secure file-processing backend** that extracts structured text from multi-format uploads using OCR and parsing pipelines.
+> `Jul 2026 – Present`
+
+A **full-stack recruitment platform** that streamlines hiring for candidates and recruiters with AI-powered assistance.
 
 **What it does:**
-- 📄 Handles all file formats with Tesseract, PyPDF2, textract
-- ⚡ RESTful APIs for upload, retrieval & status tracking
-- 🗄️ MySQL + Django ORM for efficient data modeling
 
-**Stack:** `Python` `Django` `MySQL` `OCR (Tesseract)` `REST API` `Git`
+* 💼 Role-based dashboards for Candidates, Recruiters & Admin
+* 🤖 Gemini AI for resume analysis, ATS scoring, cover letter generation & interview questions
+* ⚡ Secure REST APIs, JWT authentication, email notifications, file uploads, Celery & Redis
+
+**Stack:** `Python` `Django` `Django REST Framework` `React.js` `PostgreSQL` `JWT` `Gemini AI` `Celery` `Redis` `Docker`
 
 </td>
 <td width="50%">
 
-### 📊 Academic Performance Analytics & AI Chatbot
-> `Sep 2024 – Jan 2025`
+### 🛒 E-Commerce Web Application
 
-A **student analytics portal** with visual dashboards and an AI-powered chatbot for real-time academic assistance.
+> `May 2026 – Jun 2026`
+
+A **full-stack online shopping platform** featuring secure authentication, product management, and order processing.
 
 **What it does:**
-- 📈 Visualizes grades & attendance via Matplotlib/Seaborn
-- 🤖 Gemini AI chatbot for instant academic Q&A
-- 🔗 Secure DRF APIs powering a React.js frontend
 
-**Stack:** `Django` `DRF` `React.js` `MySQL` `Gemini AI` `Matplotlib`
+* 🛍️ Product catalog, shopping cart, wishlist & order management
+* 🔐 User authentication, role-based admin dashboard & image uploads
+* ⚡ CRUD operations, REST APIs, search, filtering & pagination
+
+**Stack:** `Python` `Flask` `PostgreSQL` `REST API` `HTML` `CSS` `Bootstrap` `JavaScript` `Git`
 
 </td>
 </tr>
